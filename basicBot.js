@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.8.10",
         status: false,
-        name: "Android Marika",
+        name: "basicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Snowicaly/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
