@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "Android Marika",
             language: "english",
             chatLink: "https://rawgit.com/Snowicaly/basicBot/master/lang/en.json",
             roomLock: false, // Requires an extension to re-load the script
