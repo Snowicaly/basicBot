@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.8.10",
         status: false,
-        name: "basicBot",
+        name: "Android Marika",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Snowicaly/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Android Marika",
+            botName: "basicBot",
             language: "english",
             chatLink: "https://rawgit.com/Snowicaly/basicBot/master/lang/en.json",
             roomLock: false, // Requires an extension to re-load the script
